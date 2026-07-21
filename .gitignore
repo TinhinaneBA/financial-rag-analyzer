@@ -1,0 +1,11 @@
+venv/
+data/reports/
+data/processed/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+mlruns/
+.env
+*.joblib
+.DS_Store
+*.pdf
