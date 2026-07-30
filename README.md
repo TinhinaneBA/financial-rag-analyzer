@@ -10,6 +10,11 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
+## 🌐 Application en ligne
+
+**Tester l'app :** https://financial-rag-analyzer-qgfb2n3bbdm74y8uyde8qu.streamlit.app/
+
+---
 
 ## Objectif
 
